@@ -1,11 +1,11 @@
 ### Hi there! I'm Manya Mehrotra <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=F7831B&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+profile!;I'm+a+Tech+Enthusiast;And+a+Creative+Thinker!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=F7831B&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+profile!;I'm+a+Machine+Learning+Enthusiast;And+a+FrontEnd+Developer!)](https://git.io/typing-svg)  
 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
 <p align="center">
-<img src="https://miro.medium.com/v2/resize:fit:679/1*d8qjKITXNdQ5reRbo3_q8g.gif" width="600">
+<img src="https://www.freepik.com/free-photos-vectors/futuristic-coding-wallpaper/5" width="600">
 </p>
 <p align="right">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
