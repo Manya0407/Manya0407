@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats:  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manya0407&show_icons=true&theme=radical&locale=en" alt="manya-github" /></p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manya0407show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="manya-github" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manya0407&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="manya-github" /></p>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manya0407&theme=highcontrast" alt="manya-github" /></p>  
 
