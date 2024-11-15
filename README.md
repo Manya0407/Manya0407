@@ -5,7 +5,7 @@
 <p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
 <p align="center">
-<img src="https://www.freepik.com/free-photos-vectors/futuristic-coding-wallpaper/5" width="600">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffuturistic-coding-wallpaper%2F5&psig=AOvVaw1Z2vBGwz-97KahAPJX9Ant&ust=1731783868370000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjE0uaD34kDFQAAAAAdAAAAABAE" width="600">
 </p>
 <p align="right">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="brackets" width="100"></p>
